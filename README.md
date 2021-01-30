@@ -5,4 +5,4 @@ I'm plusmultiply0. An undergraduate from Hohai University!✨
 - 🌱 I’m currently learning Web development.
 - 📫 You can cantact me by email --- kimzhou36@foxmail.com
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=plusmultiply0&count_private=true&show_icons=true)
+![plusmultiply0's github stats](https://github-readme-stats.vercel.app/api?username=plusmultiply0&count_private=true&show_icons=true)
